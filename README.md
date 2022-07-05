@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zuko1337
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning unity 
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on nothing right now xD
 
 <!---
